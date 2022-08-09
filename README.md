@@ -1,6 +1,6 @@
 # My To Do App
 
-![Screenshot from 2022-08-05 16-48-48](https://user-images.githubusercontent.com/96146424/183091195-9b709e96-6d86-45f8-a050-03f2c958eebb.png)
+![todo](https://user-images.githubusercontent.com/96146424/183635271-81f2d6a7-839b-4a11-853f-fa3bbef127c2.gif)
 
 
 ### Table of Contents
